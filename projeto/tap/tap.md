@@ -73,6 +73,7 @@ Exibindo demonstrações gráficas conforme é realizado atualmente;
 | **Ferramenta** | **Finalidade**  |  **Preço tota** |
 |-------|---|---|
 |    Telegram   |  Comunicação entre os membros | R$ 0  |
+|    Discord   |  Comunicação entre os membros | R$ 0  |
 |    Editor de Texto   |  Elaboração de documentos e código |  R$ 0 |
 |     Git e GitHub  |  Versionamento de arquivos | R$ 0  |
 |    Google Drive   | Compartilhamento de arquivos  |  R$ 0 |
