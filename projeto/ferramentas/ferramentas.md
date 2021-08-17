@@ -1,4 +1,5 @@
 # Introdução
+Este documento visa esclarecer entre os envolvidos no projeto as ferramentas que serão utilizadas ao longo desse projeto.
 
 ## Ferramentas
 * **Telegram:** Ferramenta na qual, majoritariamente, toda comunicação via texto ocorre.
