@@ -38,8 +38,7 @@ Este documento tem como objetivo apresentar os papéis utilizados na metodologia
 * Entregar cada tarefa atribuída em cada Sprint
 
 ## Cronograma de encontros
-* Terças e Quintas - Após a aula - Reunião interna de cada time;
-* Quartas - 18h - Reunião entre os Product Owner's e Scrum Master's:
+
 |  Dia | Horário  | Integrantes  |  Objetivo |
 |:-:|:-:|:-:|:-:|
 |  Terças e Quintas |  Após a aula |  integrantes de cada time | Reunião interna de cada time  |
