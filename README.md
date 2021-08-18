@@ -1,4 +1,6 @@
-# Projeto de teste
+# Branch de trabalho Augusto D.Camargo
+
+# Grupo B
 
 ## backend django usando python 3.8
 
