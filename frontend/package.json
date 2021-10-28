@@ -43,8 +43,8 @@
     "prettier": "^2.4.0"
   },
   "scripts": {
-    "start": "node server.js",
-    "dev": "react-scripts start",
+    "start": "react-scripts start",
+    "dev": "node server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
